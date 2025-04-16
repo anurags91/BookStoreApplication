@@ -1,71 +1,87 @@
 [
     {
         "id":1,
-        "name":"C++ Fundamenal",
-        "title":"Programming Book",
-        "price": 330,
+        "name":"Sculpture",
+        "title":"Sculpture Book",
+        "price": "$20",
         "category": "Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.823910794.1736183849&semt=ais_hybrid"
+        "image":"https://images.unsplash.com/photo-1619164025200-af10a99faeb3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDI5fHx8ZW58MHx8fHx8"
     },
     {
         "id":2,
-        "name":" C Fundamenal",
-        "title":"Programming Book",
-        "price": 500,
+        "name":" Goal Planner",
+        "title":"Plan your life goals!",
+        "price": "$20",
         "category": "Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.823910794.1736183849&semt=ais_hybrid"
+        "image":"https://images.unsplash.com/photo-1654954233411-5d72d3faef62?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDQ0fHx8ZW58MHx8fHx8"
     }, {
         "id":3,
-        "name":" Python Fundamenal",
-        "title":"Programming Book",
-        "price": 700,
+        "name":" Movie Posters",
+        "title":"A Century of Movies Posters",
+        "price": "$40",
         "category": "Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.823910794.1736183849&semt=ais_hybrid"
+        "image":"https://images.unsplash.com/photo-1619164816991-22d393238d8f?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDg3fHx8ZW58MHx8fHx8"
     }, {
         "id":4,
-        "name":" Java Fundamenal",
-        "title":"Programming Book",
-        "price": 200,
+        "name":"Proverbs",
+        "title":"The Ultimate Proverbs",
+        "price": "$15",
         "category": "Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.823910794.1736183849&semt=ais_hybrid"
+        "image":"https://images.unsplash.com/photo-1584563708449-7b663e0357b6?q=80&w=327&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }, {
         "id":5,
-        "name":"JavaScript Fundamenal",
-        "title":"Programming Book",
+        "name":"Milk and Money",
+        "title":"Milk and money a Bestsellers",
         "price": 880,
         "category": "Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.823910794.1736183849&semt=ais_hybrid"
+        "image":"https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id":6,
-        "name":" Java Fundamenal",
-        "title":"Programming Book",
-        "price": 200,
+        "name":" The Psychology of Money",
+        "title":"Timeless Lessons on Wealth,greeed and happiness",
+        "price": "$8",
         "category": "Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.823910794.1736183849&semt=ais_hybrid"
+        "image":"https://images.unsplash.com/photo-1592496431122-2349e0fbc666?q=80&w=1512&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id":7,
-        "name":" Java Fundamenal",
-        "title":"Programming Book",
-        "price": 200,
+        "name":" How Innovovation Work",
+        "title":"Creative Book",
+        "price": "$20",
         "category": "Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.823910794.1736183849&semt=ais_hybrid"
+        "image":"https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE5fHx8ZW58MHx8fHx8"
     },
     {
         "id":8,
-        "name":" Java Fundamenal",
-        "title":"Programming Book",
-        "price": 200,
+        "name":" The Two Towers",
+        "title":"Explore the Inner World of Man",
+        "price": "$14",
         "category": "Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.823910794.1736183849&semt=ais_hybrid"
+        "image":"https://images.unsplash.com/photo-1621351183012-e2f9972dd9bf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDM5fHx8ZW58MHx8fHx8"
     },
     {
         "id":9,
-        "name":" Java Fundamenal",
-        "title":"Programming Book",
-        "price": 200,
+        "name":" The Will",
+        "title":"The Inner Will",
+        "price": "$9",
         "category": "Free",
-        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.823910794.1736183849&semt=ais_hybrid"
-    }
+        "image":"https://images.unsplash.com/photo-1641716162046-e6fe7ce76818?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDU4fHx8ZW58MHx8fHx8"
+    },
+    {
+        "id":10,
+        "name":" Hooked",
+        "title":"How to build Habit",
+        "price": "$9",
+        "category": "Free",
+        "image":"https://images.unsplash.com/photo-1600100397751-1f63586ddb6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDczfHx8ZW58MHx8fHx8"
+    },
+   {
+    "id":11,
+    "name":" Home Leadership",
+    "title":"How to think like a leader",
+    "price": "$9",
+    "category": "Free",
+    "image":"https://images.unsplash.com/photo-1658198413654-a50633ab8367?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+}
 ]
